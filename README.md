@@ -13,7 +13,7 @@
 
 ## Introduction
 
-MySQL is a relational database management system. You are asked to learn basic queries in MySQL. In this homework, there are $5$ questions, $20\%$ per question, and you need to fill in each of the corresponding queries.
+MySQL is a relational database management system. You are asked to learn basic queries in MySQL. In this homework, there are 5​ questions, 20%​ per question, and you need to fill in each of the corresponding queries.
 1. Which planets did Darth Vader visit in movie 2?
 2. Find all characters that never visited any rebels planets.
 3. Who visited planets of his/her affiliation in movie 1?
@@ -39,7 +39,7 @@ To save your time, we don't asked you to build SQL environment in Linux system f
 - Press **File/Open DB** and select the sqlite.db file we gave you to create the environment.
 - Press **File/Save SQL** to save your current sql code as a file.
 - Please **make copy of your and codes** when using sqlite. TAs are not responsible for your lost of codes online.
-- If you are interested in how to build environment on your own, please refer to [homwork](https://github.com/amjltc295/SQL_Homework) the year before last year. Also, there are more queries for you to practice.
+- If you are interested in how to build environment on your own, please refer to [homework](https://github.com/amjltc295/SQL_Homework) the year before last year. Also, there are more queries for you to practice.
 
 
 
